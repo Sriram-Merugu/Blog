@@ -49,6 +49,15 @@ To use this project, follow these steps:
 
 - As you can see in the sample output images of the website, users and admin pages are different, the code is written such that first logged person in admin, and next are the users.
 
+## Output Web pages
+
+<img src="./output-images/img1.png">
+<img src="./output-images/img2.png">
+<img src="./output-images/img3.png">
+<img src="./output-images/img4.png">
+<img src="./output-images/img5.png">
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
